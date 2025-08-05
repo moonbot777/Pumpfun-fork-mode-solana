@@ -9,6 +9,31 @@ A powerful and customizable smart contract for **token launches** and **liquidit
 
 ---
 
+## 📖 About
+
+This project is a **fork of the original Pump.fun smart contract** designed for launching tokens on Solana with advanced bonding curve mechanics. The contract enables:
+
+- **Fair Launch Mechanics**: Implements bonding curve pricing for fair token distribution
+- **Liquidity Management**: Automatic liquidity provision and management on Raydium
+- **Anti-Bot Protection**: Built-in mechanisms to prevent front-running and bot manipulation
+- **Flexible Configuration**: Customizable parameters for different token launch strategies
+
+### 🎯 Use Cases
+
+- **Token Launches**: Launch new tokens with controlled price discovery
+- **Community Projects**: Fair distribution for community-driven projects
+- **DeFi Protocols**: Launch governance tokens or utility tokens
+- **NFT Projects**: Launch tokens for NFT communities
+
+### 🔧 Technical Stack
+
+- **Solana Blockchain**: High-performance, low-cost transactions
+- **Anchor Framework**: Secure smart contract development
+- **Raydium Integration**: Automated liquidity provision
+- **TypeScript CLI**: Easy-to-use command-line interface
+
+---
+
 ## 🚀 Features
 
 - **Fully on-chain logic**  
